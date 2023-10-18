@@ -8,6 +8,6 @@ let lastName=undefined;//undefined
 
 let trophy = null;//null
 
-trophy = true;
+trophy = false;
 
 
